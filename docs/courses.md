@@ -32,9 +32,10 @@ In this course, we begin with **backend development** fundamentals, mastering **
 - Build **RESTful APIs** with **.NET Core**.
 - Implement **authentication** and **authorization** using **JWT**.
 
-#### **Week 4: Introduction to RabbitMQ**
-- Understand the role of **RabbitMQ** for messaging and queues.
-- Implement **consumer-publisher** messaging models using **RabbitMQ**.
+#### **Week 4: Introduction to Logging, Git Best Practices, and Debugging**
+-  Implement **structured logging** using tools like Serilog and NLog..
+-  Master **Git** for version control with **branching**, **merging**, and **commit conventions**.
+- Learn effective **debugging techniques** with **Visual Studio** and **VS Code**, and **Rider** troubleshoot issues in your application.
 
 ---
 
@@ -59,9 +60,10 @@ In this course, we begin with **backend development** fundamentals, mastering **
 
 ### **Month 3: Advanced Architecture & Deployment**
 
-#### **Week 9: Event-Driven Architecture & Pub/Sub**
-- Introduction to **event-driven architecture** and how it enhances application scalability.
-- Use **Pub/Sub messaging** patterns with **RabbitMQ** and **Redis** for asynchronous communication.
+#### **Week 9: Securing Web Applications & Modular Design**
+- **Security best practices** including SQL Injection protection, **XSS**, **CSRF** handling, and **CORS** configuration.
+-  Understand and apply principles of **modular software design** to make your code more maintainable and scalable.
+- Implement **OAuth2**, **JWT**, and secure your APIs against common vulnerabilities.
 
 #### **Week 10: Webhooks & Polling**
 - Learn how to implement **webhooks** and **polling** for real-time updates and integration with external services.
