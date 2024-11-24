@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: "Biraj Mainali"
-  text: "Software Engineer | .NET Expert | Mentor"
+  text: "Software Engineer"
   tagline: "Building scalable web solutions, specializing in backend architecture, and empowering developers through mentoring and insights on full-stack development."
   image:
     src: /biraj-mainali.png
