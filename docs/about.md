@@ -1,7 +1,7 @@
 ### About Me
 
-I’m **Biraj Mainali**, a **Full Stack Software Engineer** based in Nepal, with
-over **5 years of experience** in developing high-quality, scalable web
+I’m **Biraj Mainali**, a **Full Stack Software Engineer**, with
+over **5+ years of experience** in developing high-quality, scalable web
 applications. I specialize in **Fintech**, **SaaS**, and **business accounting
 solutions**, leveraging modern technologies to deliver robust and innovative
 software.
@@ -54,14 +54,3 @@ I excel in the following areas:
   ensuring code integrity.
 
 ---
-
-### Let’s Connect
-
-If you’d like to discuss how we can collaborate on your next project or if
-you’re looking for a skilled software engineer to join your team, feel free to
-reach out:
-
-- **Email:** birajmainali10@gmail.com
-- **LinkedIn:**
-  [linkedin.com/in/birajmainali](https://linkedin.com/in/birajmainali)
-- **GitHub:** [github.com/BirajMainali](https://github.com/BirajMainali)
