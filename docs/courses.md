@@ -1,104 +1,145 @@
-# Full Stack Development with Advanced Architecture
+## **Full Stack Development with Advanced Architecture**
 
-Welcome to **Biraj Mainali's Full Stack Development Course**! This **remote** course is designed to provide you with comprehensive skills in **backend development** while introducing advanced topics such as **event-driven architecture**, **Pub/Sub messaging**, **message queues**, and other modern architectural patterns. By the end of this course, you will have the ability to build scalable, efficient applications using industry-standard technologies.
+### **Course Overview**
 
-- **Duration:** 3 months (1.5 hours per day, 6 days a week)  
-- **Class Timing:** 7:00 AM/PM - 8:30 AM/PM (Nepali Time)  
-- **Course Fee:** NPR **6,999** per month  
-- **Class Size:** Limited to 20 students for personalized mentoring
-- **Mode:** **Remote**, join from anywhere!
+Welcome to **Full Stack Development with Advanced Architecture**, a comprehensive mentorship-driven course designed to guide you from the basics of backend development to mastering industry-standard technologies and modern architectural patterns. In this course, you’ll not only learn the foundations of .NET Core, MVC, PostgreSQL, and frontend frameworks but also dive deep into advanced topics like microservices, event-driven architecture, containerization, and deployment strategies.
+
+This hands-on, project-driven course is built around **real-world applications** that you can showcase in your portfolio. You will receive direct mentorship from an experienced professional, helping you develop skills that will set you apart in the competitive software development job market.
 
 ---
 
-## Course Overview
+## **Course Details**
 
-In this course, we begin with **backend development** fundamentals, mastering **.NET Core** and **PostgreSQL**. We then dive into more advanced topics such as **event-driven architecture**, **Pub/Sub systems**, and **message queuing** with **RabbitMQ** and **Redis**. These technologies will help you design and build modern, scalable, and efficient applications.
-
----
-
-## Week-by-Week Course Plan
-
-### **Month 1: Backend Development Fundamentals**
-
-#### **Week 1: Introduction to Backend Development & C#**
-- Learn **C#** and **.NET Core** fundamentals.
-- Build your first **CRUD** application and integrate with **PostgreSQL**.
-
-#### **Week 2: MVC Architecture & Entity Framework Core**
-- Learn **MVC** architecture and how to implement it with **.NET Core**.
-- Use **Entity Framework Core** for efficient database interaction.
-
-#### **Week 3: Building RESTful APIs with .NET Core**
-- Build **RESTful APIs** with **.NET Core**.
-- Implement **authentication** and **authorization** using **JWT**.
-
-#### **Week 4: Introduction to Logging, Git Best Practices, and Debugging**
--  Implement **structured logging** using tools like Serilog and NLog..
--  Master **Git** for version control with **branching**, **merging**, and **commit conventions**.
-- Learn effective **debugging techniques** with **Visual Studio** and **VS Code**, and **Rider** troubleshoot issues in your application.
+- **Duration**: 3 months
+- **Time**: 1.5 hours per day, 6 days a week
+- **Class Size**: Limited to 20 students for personalized mentoring
+- **Mode**: Remote, join from anywhere!
+- **Course Fee**: NPR 6,999 per month
 
 ---
 
-### **Month 2: Frontend Development (React or Vue.js)**
-
-#### **Week 5: Introduction to Frontend Development & Setup**
-- Choose between **React** or **Vue.js** for building dynamic user interfaces.
-- Set up a development environment and learn basic concepts like **components**, **props**, and **state**.
-
-#### **Week 6: Advanced Components & State Management**
-- Learn about **state management** with **Redux** (React) or **Vuex** (Vue.js).
-- Build more complex, interactive UIs with API integration.
-
-#### **Week 7: Fetching Data & Consuming APIs**
-- Learn how to consume data from your backend using **Axios** or **Fetch**.
-- Display dynamic content in your frontend app and handle API responses.
-
-#### **Week 8: Finalizing Your Frontend Application**
-- Complete the frontend portion of your project, implementing routing and form handling.
+## **What You’ll Learn**
 
 ---
 
-### **Month 3: Advanced Architecture & Deployment**
+## **Month 1: Foundation of .NET Development & Databases**
 
-#### **Week 9: Securing Web Applications & Modular Design**
-- **Security best practices** including SQL Injection protection, **XSS**, **CSRF** handling, and **CORS** configuration.
--  Understand and apply principles of **modular software design** to make your code more maintainable and scalable.
-- Implement **OAuth2**, **JWT**, and secure your APIs against common vulnerabilities.
+**Goal**: Establish a solid foundation in .NET development, databases, and REST API basics.
 
-#### **Week 10: Webhooks & Polling**
-- Learn how to implement **webhooks** and **polling** for real-time updates and integration with external services.
-- Use **RabbitMQ** and **Redis** to implement these patterns for handling large-scale applications.
+#### **Week 1: Basics of .NET Development**
+- Introduction to .NET: classes, objects, interfaces, enums.
+- Hands-On: Build a console-based application.
 
-#### **Week 11: Cloud Deployment & Docker**
-- Learn how to containerize your applications using **Docker**.
-- Deploy your full-stack app to cloud platforms such as **Heroku** or **Azure**.
+#### **Week 2: .NET Core Fundamentals & HTTP Protocols**
+- Learn about HTTP verbs (GET, POST, PUT, DELETE).
+- Building basic forms with Bootstrap and handling GET/POST requests.
+- Hands-On: Create a basic form-based app in .NET Core.
 
-#### **Week 12: Final Project & Career Mentorship**
-- Work on your **final project** combining both backend and frontend skills.
-- Get guidance on **career growth**, **resume building**, and **interview preparation**.
+#### **Week 3: Working with Databases - PostgreSQL**
+- Introduction to relational databases with PostgreSQL.
+- Writing and optimizing SQL queries.
+- Hands-On: Design and implement a PostgreSQL database for an application.
+
+#### **Week 4: Version Control with Git**
+- Git essentials: Branching, merging, conflict resolution, rebasing.
+- Hands-On: Version control of your project using Git in a real-world collaboration scenario.
+
+---
+## **Month 2: APIs, Authentication, and Advanced Practices**
+
+**Goal**: Build robust REST APIs, implement authentication, and dive deeper into development practices.
+
+#### **Week 5: Mastering ORMs with EF Core and Dapper**
+- Understanding DbContext, entity relationships, and EF Core best practices.
+- Introduction to Dapper for optimized queries.
+- Hands-On: CRUD operations with EF Core and Dapper.
+
+#### **Week 6: Authentication and Authorization**
+- Mastering JWT and cookie-based authentication.
+- Introduction to OAuth 2.0 and role-based authorization.
+- Hands-On: Implement JWT authentication and secure your API.
+
+#### **Week 7: REST API Development**
+- Building scalable, secure REST APIs with proper error handling.
+- Debugging APIs using Swagger and Postman.
+- Hands-On: Develop a fully functional, secure API with CRUD operations.
+
+#### **Week 8: Logging and Monitoring**
+- Structured logging with Serilog and logging best practices.
+- Introduction to monitoring tools like Seq or ELK.
+- Hands-On: Integrate logging into your backend application.
 
 ---
 
-## Why Choose This Course?
+## **Month 3: Frontend Integration, Testing, and Deployment**
 
-- **Comprehensive Learning:** From backend development to advanced architecture and deployment.
-- **Hands-On Projects:** Real-world applications to showcase your skills.
-- **Expert Mentorship:** Learn from **Biraj Mainali**, a professional full-stack developer with years of experience.
-- **Remote Learning:** Study from anywhere and access course materials at your convenience.
+**Goal**: Integrate frontend frameworks, implement testing, and learn deployment strategies for real-world applications.
+
+#### **Week 9: Frontend Integration with React or Vue.js**
+- Setting up and structuring a React or Vue.js application.
+- Learn API integration and manage application state.
+- Hands-On: Build a frontend application to consume your REST API.
+
+#### **Week 10: Unit Testing and TDD**
+- Introduction to Unit Testing and Test-Driven Development (TDD).
+- Learn to test services, controllers, and repositories using xUnit or NUnit.
+- Hands-On: Apply TDD to build features with unit tests.
+
+#### **Week 11: Webhooks, Polling, and Background Jobs**
+- Understand webhooks vs. polling and when to use each.
+- Implement background processing with Hangfire for delayed jobs.
+- Hands-On: Integrate webhooks and background jobs into your project.
+
+#### **Week 12: Containerization and Deployment**
+- Introduction to Docker for containerization.
+- Learn about Docker containers, volumes, environments, and orchestration.
+- Hands-On: Containerize your project and deploy it to a Linux VM using Nginx as a reverse proxy.
 
 ---
 
-## How to Enroll
+## **Additional Topics:**
 
-1. **Contact Us:** Reach out via email or LinkedIn to express your interest.
-2. **Schedule a Call:** We’ll answer your questions and help you get started.
-3. **Start Learning:** Join the course and begin your journey as a Full Stack Developer!
+- **Event-Driven Architecture & Microservices**
+  - Introduction to microservices and event-driven architectures.
+  - Implement message queues with RabbitMQ or Redis for communication between services.
+
+- **AI Integrations in .NET Applications**
+  - Learn how to integrate AI models into .NET applications to enhance functionality.
+
+- **Application Deployment & Monitoring**
+  - Learn VM deployment (Ubuntu setup) and using Cloudflare for DNS and SSL management.
+  - Set up application monitoring to track real-time performance and errors.
 
 ---
 
-### Contact Information
+## **Why This Course is Different**
 
-- **Email:** birajmainali10@gmail.com  
-- **LinkedIn:** [linkedin.com/in/birajmainali](https://linkedin.com/in/birajmainali)  
-- **GitHub:** [github.com/BirajMainali](https://github.com/BirajMainali)
-- **Phone:** +977 9807936220
+- **Comprehensive and Practical**: Built around real-world applications, perfect for your portfolio.
+- **Mentorship-Driven**: Receive direct, personalized mentorship throughout the course.
+- **Industry-Ready**: Learn the most in-demand skills and tools like microservices, Docker, API development, and cloud deployment.
+- **Job-Ready Curriculum**: This course equips you with everything you need to become a senior developer, making you highly competitive in the job market.
+
+---
+
+## **Who Should Enroll**
+
+- **Aspiring Developers**: If you're new to programming, this course will take you from beginner to industry-ready.
+- **Junior Developers**: Ready to level up your skills and advance in your career? This course is for you.
+- **Career Switchers**: Transitioning to software development? This course will give you the foundation and advanced skills you need to succeed.
+
+---
+
+## **Enroll Now & Transform Your Future**
+
+Invest in yourself and unlock your potential as a software engineer. Whether you want to land a software engineering job, get promoted, or advance your skills, this course will help you achieve your goals.
+
+**No prior knowledge required**—just a laptop, your time, and a commitment to learning!
+
+By the end of this course, you’ll be fully equipped to land a software engineering role and contribute to real-world projects. Ready to take the first step towards mastering Full Stack Development?
+
+## Contact Information  
+- **Discord**: [birajmainali](https://discord.com/users/birajmainali) - Live Consulting
+- **Email**: birajmainali10@gmail.com  
+- **LinkedIn**: [linkedin.com/in/birajmainali](https://linkedin.com/in/birajmainali)  
+- **GitHub**: [github.com/BirajMainali](https://github.com/BirajMainali)  
+- **Phone**: +977 9807936220  
