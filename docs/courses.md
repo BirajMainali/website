@@ -21,7 +21,10 @@ in the competitive software development job market.
 - **Time**: 1.5 hours per day, 6 days a week
 - **Class Size**: Limited to 20 students for personalized mentoring
 - **Mode**: Remote, join from anywhere!
-- **Course Fee**: NPR 5,999 per month
+- **Course Fee**: ~~NPR 6,999~~/month  
+  **Special Discount**: Get NPR 2,000 off for enrollments **before December 15**!  
+  **Discounted Fee**: **NPR 4,999**/month
+
 
 ## **What You’ll Learn**
 
