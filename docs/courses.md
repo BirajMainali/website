@@ -17,8 +17,8 @@ in the competitive software development job market.
 
 ## **Course Details**
 
-- **Duration**: 3 months
-- **Time**: 1.5 hours per day, 6 days a week
+- **Duration**: 3 months (1.5 hours per day, 6 days a week)
+- **Time**: 7:00 AM/PM to 8:30 AM/PM - NPT
 - **Class Size**: Limited to 20 students for personalized mentoring
 - **Mode**: Remote, join from anywhere!
 - **Course Fee**: ~~NPR 6,999~~/month  
