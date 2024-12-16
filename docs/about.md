@@ -1,56 +1,34 @@
-### About Me
+### **About me**  
+I am **Biraj Mainali**, a passionate **Full Stack Software Engineer** with over **5 years of hands-on experience** crafting scalable, high-performance web applications. My expertise lies in transforming complex business challenges into elegant, efficient solutions, with a focus on **Fintech**, **SaaS**, and **business accounting** applications.
 
-I’m **Biraj Mainali**, a **Full Stack Software Engineer**, with
-over **5+ years of experience** in developing high-quality, scalable web
-applications. I specialize in **Fintech**, **SaaS**, and **business accounting
-solutions**, leveraging modern technologies to deliver robust and innovative
-software.
+Driven by a commitment to **clean, maintainable code** and **performance optimization**, I leverage cutting-edge technologies to deliver software that not only meets but exceeds the highest industry standards. My dedication to excellence is reflected in my ability to tackle intricate problems, continuously learn and adapt, and mentor teams to elevate the quality of our collective output.
 
-My focus is on **clean, maintainable code** and **performance optimization**,
-ensuring that every project meets the highest standards of quality. I’m
-passionate about solving complex problems, mentoring teams, and continuously
-learning to stay at the forefront of the tech industry.
+### **Core Strengths & Technical Expertise**  
 
----
+### **Backend Development**
+- **.NET Core, C#, RabbitMQ, gRPC, EF Core, Dapper**  
+  As an expert in backend development, I design and implement robust, scalable systems capable of handling complex workflows and vast amounts of data with optimal efficiency. My focus is on creating systems that power real-world businesses, ensuring reliability, performance, and seamless scalability.
 
-### My Skills & Capabilities
+### **Frontend Development**
+- **Vue.js, React.js, Tailwind CSS, Bootstrap**  
+  I specialize in building intuitive and responsive user interfaces, delivering seamless, high-performance experiences across devices and platforms. Whether it's a sleek dashboard or a dynamic web app, I create frontends that engage and delight users, without compromising on functionality.
 
-I excel in the following areas:
+### **Mobile Development**
+- **Flutter**  
+  With **Flutter**, I craft cross-platform mobile applications that perform flawlessly on both Android and iOS. My approach combines native-like performance with a stunning user experience, ensuring your app stands out on any platform.
 
-#### **Backend Development**
+### **Databases**
+- **PostgreSQL, MS SQL Server**  
+  My expertise in **database design and optimization** allows me to create efficient, secure, and highly scalable database solutions. Whether it's complex relational models or performance tuning, I ensure that your data is managed with the highest level of integrity and speed.
 
-- **.NET Core, C#, RabbitMQ, gRPC, EF Core, Dapper**
-- **Expertise in building scalable, high-performance backend systems** designed
-  to handle complex workflows and data efficiently.
+### **DevOps & CI/CD**
+- **Docker, Jenkins, AWS Batch/ECS, Nginx**  
+  I excel in automating deployments, managing containerized applications, and implementing industry-leading **DevOps** practices. I streamline CI/CD pipelines to ensure that your software is delivered quickly, securely, and with minimal downtime.
 
-#### **Frontend Development**
-
-- **Vue.js, React.js, Tailwind CSS, Bootstrap**
-- **Proficient in creating intuitive and responsive user interfaces**, providing
-  seamless experiences across devices and platforms.
-
-#### **Mobile Development**
-
-- **Flutter**
-- **Skilled in developing cross-platform mobile applications**, ensuring
-  functionality and performance on both Android and iOS.
-
-#### **Databases**
-
-- **PostgreSQL, MS SQL Server**
-- **Experienced in database design and optimization**, focusing on efficiency,
-  security, and scalability.
-
-#### **DevOps & Tools**
-
-- **Docker, Jenkins, AWS Batch/ECS, Nginx**
-- **Proficient in automating deployments**, managing containerized applications,
-  and implementing robust DevOps practices for seamless CI/CD pipelines.
-
-#### **Version Control**
-
-- **Git,Github,GitLab**
-- **Expert in managing version control**, facilitating team collaboration and
-  ensuring code integrity.
+### **Version Control & Collaboration**
+- **Git, GitHub, GitLab**  
+  Expert in using **Git** to manage version control and collaborate with development teams seamlessly. I prioritize code integrity, collaboration, and efficient workflows to ensure smooth team coordination and project delivery.
 
 ---
+
+I’m driven by the challenge of turning ideas into scalable, high-quality software solutions. Whether leading a team or working independently, my goal is to create software that not only solves business problems but drives **growth, innovation, and efficiency** at every level.

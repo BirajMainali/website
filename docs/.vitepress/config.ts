@@ -64,8 +64,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Courses", link: "/courses" }, // Highlight your .NET Mentoring Course here
-      { text: "About", link: "/about" },
-      { text: "Projects", link: "/projects" },
+      { text: "About", link: "/about" }
     ],
     socialLinks: [
       {
