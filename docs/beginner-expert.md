@@ -29,7 +29,7 @@
 ### **Course Details**  
 - **Duration**: 2 months (1.5 hours/day, 6 days/week)  
 - **Mode**: Remote – join from anywhere!  
-- **Course Fee**: Rs.1,999 only
+- **Course Fee**: Rs.1,999/Monthly
 
 ---
 
