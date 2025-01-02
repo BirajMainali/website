@@ -10,7 +10,7 @@ You'll learn core technologies like **.NET Core**, **PostgreSQL**, and **MVC**, 
 ### **Course Details**  
 - **Duration**: 3 months (1.5 hours/day, 6 days/week)  
 - **Mode**: Remote – join from anywhere!  
-- **Course Fee**: Rs.5999 only  
+- **Course Fee**: Rs.5999/Monthly
   - **Discount**: Get Rs.2000 off if you are a beginner to expert course participant.
 
 ---
