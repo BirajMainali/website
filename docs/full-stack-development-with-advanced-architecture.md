@@ -15,7 +15,7 @@ You'll learn core technologies like **.NET Core**, **PostgreSQL**, and **MVC**, 
 
 ---
 
-### **What You’ll Learn**  
+### **What You'll Learn**  
 
 #### **Month 1: Foundations of .NET and Databases**  
 **Goal**: Build a strong foundation in backend development, REST APIs, and database management.  
@@ -106,7 +106,7 @@ You'll learn core technologies like **.NET Core**, **PostgreSQL**, and **MVC**, 
 
 ### **Who Should Join?**  
 
-- **Aspiring Developers**: If you’re new to programming, this course will get you industry-ready.  
+- **Aspiring Developers**: If you're new to programming, this course will get you industry-ready.  
 - **Junior Developers**: Elevate your skills to advance in your career.  
 - **Career Switchers**: Transition into software development with confidence.  
 
@@ -116,6 +116,6 @@ You'll learn core technologies like **.NET Core**, **PostgreSQL**, and **MVC**, 
 
 This course equips you with everything you need to thrive as a full-stack developer. No prior experience is required—just a laptop, your time, and a commitment to learning!  
 
-By the end of this course, you’ll be ready to tackle real-world projects, land a job in software development, or take your career to the next level. Don’t miss this opportunity!  
+By the end of this course, you'll be ready to tackle real-world projects, land a job in software development, or take your career to the next level. Don't miss this opportunity!  
 
 [**Enroll Now!**](https://forms.gle/nPE71gnUc7gY9vmZ6)  

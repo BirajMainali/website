@@ -1,34 +1,17 @@
-### **About me**  
-I am **Biraj Mainali**, a passionate **Full Stack Software Engineer** with over **5 years of hands-on experience** crafting scalable, high-performance web applications. My expertise lies in transforming complex business challenges into elegant, efficient solutions, with a focus on **Fintech**, **SaaS**, and **business accounting** applications.
+# About me
 
-Driven by a commitment to **clean, maintainable code** and **performance optimization**, I leverage cutting-edge technologies to deliver software that not only meets but exceeds the highest industry standards. My dedication to excellence is reflected in my ability to tackle intricate problems, continuously learn and adapt, and mentor teams to elevate the quality of our collective output.
+I'm **Biraj Mainali**. I build and advise on software that's clear, maintainable, and ready for real use—whether that's new products, legacy systems, or the messy middle where AI is starting to show up.
 
-### **Core Strengths & Technical Expertise**  
+I care about **intelligent software architecture**: systems that behave predictably, scale without drama, and don't require heroics to change. I've spent years in backend and full-stack work (C#/.NET, Vue, React, PostgreSQL, message queues, APIs), and more recently helping teams figure out where and how to use AI—agents, workflows, and tooling—without the hype.
 
-### **Backend Development**
-- **.NET Core, C#, RabbitMQ, gRPC, EF Core, Dapper**  
-  As an expert in backend development, I design and implement robust, scalable systems capable of handling complex workflows and vast amounts of data with optimal efficiency. My focus is on creating systems that power real-world businesses, ensuring reliability, performance, and seamless scalability.
+**What I do well:**
 
-### **Frontend Development**
-- **Vue.js, React.js, Tailwind CSS, Bootstrap**  
-  I specialize in building intuitive and responsive user interfaces, delivering seamless, high-performance experiences across devices and platforms. Whether it's a sleek dashboard or a dynamic web app, I create frontends that engage and delight users, without compromising on functionality.
+- **Backend & APIs** — .NET, C#, gRPC, message queues (e.g. RabbitMQ), and databases (PostgreSQL, SQL Server). I like systems that are observable and easy to reason about.
+- **Frontend** — Vue, React, Tailwind. UIs that stay in sync with the backend and don't fight the product.
+- **AI integration** — Where Gen AI fits in a product, how to build small agents and automations, and how to use AI tooling in day-to-day development without over-relying on it.
+- **Configuration-first design** — Shaping behavior through config and data so that many changes don't require code deploys.
+- **Mentorship & courses** — I run courses and long-form material on C#, full-stack development, and architecture so others can go deep too.
 
-### **Mobile Development**
-- **Flutter**  
-  With **Flutter**, I craft cross-platform mobile applications that perform flawlessly on both Android and iOS. My approach combines native-like performance with a stunning user experience, ensuring your app stands out on any platform.
+I've worked across fintech, SaaS, and product teams—often remotely—and I'm comfortable jumping into existing codebases, clarifying requirements, and helping ideas become shippable software.
 
-### **Databases**
-- **PostgreSQL, MS SQL Server**  
-  My expertise in **database design and optimization** allows me to create efficient, secure, and highly scalable database solutions. Whether it's complex relational models or performance tuning, I ensure that your data is managed with the highest level of integrity and speed.
-
-### **DevOps & CI/CD**
-- **Docker, Jenkins, AWS Batch/ECS, Nginx**  
-  I excel in automating deployments, managing containerized applications, and implementing industry-leading **DevOps** practices. I streamline CI/CD pipelines to ensure that your software is delivered quickly, securely, and with minimal downtime.
-
-### **Version Control & Collaboration**
-- **Git, GitHub, GitLab**  
-  Expert in using **Git** to manage version control and collaborate with development teams seamlessly. I prioritize code integrity, collaboration, and efficient workflows to ensure smooth team coordination and project delivery.
-
----
-
-I’m driven by the challenge of turning ideas into scalable, high-quality software solutions. Whether leading a team or working independently, my goal is to create software that not only solves business problems but drives **growth, innovation, and efficiency** at every level.
+If you're exploring a new direction, refactoring something old, or want a second pair of eyes on design or AI strategy, [get in touch](https://www.linkedin.com/in/birajmainali/).
