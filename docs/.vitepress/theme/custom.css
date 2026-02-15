@@ -1,11 +1,5 @@
-/**
- * Clean, simple, loud-and-clear design.
- * Strong hierarchy, high contrast, one accent, no clutter.
- */
-
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
 
-/* ========== Light theme ========== */
 :root {
   --vp-c-brand: #0f766e;
   --vp-c-brand-light: #0d9488;
@@ -37,7 +31,6 @@
   --vp-c-text-3: #64748b;
 }
 
-/* ========== Dark theme ========== */
 .dark {
   --vp-c-brand: #2dd4bf;
   --vp-c-brand-light: #5eead4;
@@ -64,7 +57,6 @@
   --vp-c-text-3: #94a3b8;
 }
 
-/* Typography: clear hierarchy */
 .vp-doc h1,
 .vp-doc h2,
 .vp-doc h3,
@@ -88,7 +80,6 @@ kbd {
   font-size: 0.9em;
 }
 
-/* Links: visible, one color */
 .vp-doc a,
 .bm-home a {
   color: var(--bm-accent);
@@ -106,7 +97,6 @@ kbd {
   color: var(--bm-accent-visited);
 }
 
-/* CTA button: always solid contrast (not link color) */
 .bm-home a.bm-btn {
   color: #fff;
 }
@@ -121,7 +111,6 @@ kbd {
   color: var(--bm-bg);
 }
 
-/* ========== Home layout ========== */
 html {
   scroll-behavior: smooth;
 }
@@ -135,7 +124,6 @@ body,
   border-radius: var(--bm-radius);
 }
 
-/* Section */
 .bm-section {
   padding: 3rem 1.5rem;
   max-width: 720px;
@@ -159,7 +147,6 @@ body,
   margin-bottom: 1.5rem;
 }
 
-/* Cards: simple, scannable */
 .bm-card {
   background: var(--bm-bg-elevated);
   border: 1px solid var(--bm-border);
@@ -181,7 +168,6 @@ body,
   font-weight: 500;
 }
 
-/* VitePress */
 .VPNavBar a,
 .VPSidebar a,
 .VPFooter a {

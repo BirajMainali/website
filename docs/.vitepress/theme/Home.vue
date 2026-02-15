@@ -1,6 +1,5 @@
 <template>
   <div class="bm-home">
-    <!-- Floating "I don't trust you": moves when cursor is near; if they catch & click, show joke -->
     <div
       class="bm-float-btn"
       aria-hidden="true"
@@ -9,14 +8,12 @@
       @click.prevent="onFloatClick"
     >I don't trust you</div>
 
-    <!-- Joke toast when they somehow click the floating text -->
     <div v-if="showJokeToast" class="bm-joke-toast" role="status" aria-live="polite">
       <p class="bm-joke-toast-text">{{ jokeMessage }}</p>
       <button type="button" class="bm-joke-toast-dismiss" @click="showJokeToast = false" aria-label="Close">×</button>
     </div>
 
     <main class="bm-main">
-      <!-- Hero: one clear message -->
       <section class="bm-hero">
         <h1 class="bm-hero-title">Senior software engineer.<br>I build systems that hold up.</h1>
         <p class="bm-hero-lead">
@@ -25,7 +22,6 @@
         <a class="bm-hero-cta" href="https://www.linkedin.com/in/birajmainali/" target="_blank" rel="noopener noreferrer">More about me on LinkedIn</a>
       </section>
 
-      <!-- What I offer -->
       <section class="bm-section" id="offer">
         <h2 class="bm-section-title">What I offer</h2>
         <p class="bm-section-desc">Where AI fits, how to ship it, and how to keep systems sane.</p>
@@ -38,7 +34,6 @@
         </ul>
       </section>
 
-      <!-- Learn with me -->
       <section class="bm-section" id="learn">
         <h2 class="bm-section-title">Learn with me</h2>
         <p class="bm-section-desc">Configuration-first design, platform architecture, and the fundamentals that don't go out of style.</p>
@@ -51,7 +46,6 @@
         </ul>
       </section>
 
-      <!-- CTA -->
       <section class="bm-section bm-section-cta">
         <div class="bm-cta">
           <h2 class="bm-cta-title">Let's talk</h2>
@@ -161,7 +155,6 @@ export default {
   flex-direction: column;
 }
 
-/* Floating "I don't trust you": moves on hover; if they catch it and click, joke toast */
 .bm-float-btn {
   position: fixed;
   width: 180px;
@@ -186,7 +179,6 @@ export default {
   outline: none;
 }
 
-/* Joke toast when they click the floating text */
 .bm-joke-toast {
   position: fixed;
   bottom: 2rem;
@@ -233,7 +225,6 @@ export default {
   flex: 1;
 }
 
-/* Hero: one clear statement */
 .bm-hero {
   padding: 4rem 1.5rem 3rem;
   max-width: 720px;
@@ -266,7 +257,6 @@ export default {
   text-decoration: underline;
 }
 
-/* Section spacing */
 .bm-section {
   padding: 3rem 1.5rem;
   max-width: 720px;
@@ -276,7 +266,6 @@ export default {
   padding-bottom: 4rem;
 }
 
-/* Card grid */
 .bm-card-list {
   list-style: none;
   padding: 0;
@@ -324,7 +313,6 @@ export default {
   flex: 1;
 }
 
-/* CTA block */
 .bm-cta {
   text-align: center;
   padding: 2.5rem 1.5rem;
@@ -368,7 +356,6 @@ export default {
   color: var(--bm-bg);
 }
 
-/* Footer */
 .bm-footer {
   padding: 2rem 1.5rem;
   border-top: 1px solid var(--bm-border);

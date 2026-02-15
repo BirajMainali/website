@@ -4,7 +4,6 @@ export default defineConfig({
   title: "Biraj Mainali",
   description:
     "Senior software engineer: intelligent architecture, AI integration, configuration-first design. Good at this, happy to help.",
-  /* prettier-ignore */
   head: [
     ["link", { rel: "icon", type: "image/svg+xml", href: "/biraj-mainali.jpg" }],
     ["link", { rel: "icon", type: "image/png", href: "/favicon.png" }],
